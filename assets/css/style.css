@@ -85,7 +85,7 @@
 .content-section{
     padding: 70px;
     margin-top: 72px;
-    background: url(../assect/img/background.avif);
+    background: url(../img/background.avif);
     width: 100%;
     height: 736px;
 }
@@ -178,4 +178,28 @@
     transition: 0.3s;
     border: 3px solid #485342;
     background-color: rgba(0, 0, 0, 0.1);
+}
+.contcontent_section_two-wrapper-element-one
+.wrapper_element-img-one{
+    width: 612px;
+    height: 768px;
+}
+.content_section_two-wrapper-element-two 
+.wrapper_element-text-one{
+    font-size: 40px;
+    font-family:'Jacques Francois', serif;
+    font-weight: 500;
+    color: #485342;
+}
+.content_section_two-wrapper-element-two 
+.wrapper_element-text-two{
+    margin: 24px 0;
+}
+.content_section_two-wrapper-element-two 
+.wrapper_element-text-three,
+.wrapper_element-text-two{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    color: #485342;
 }
